@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chloeyinongyang
+- 👋 Hi, I’m Yinong Yang
 - 👀 I’m interested in Digital supply chain, End of Life product management, and Circular economy
 
 <!---
