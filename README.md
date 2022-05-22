@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yinong Yang
-- 👀 I’m interested in Digital supply chain, End of Life product management, and Circular economy
+- 👀 I’m interested in End of Life product management, X-Reality, and product information modeling.
 
 <!---
 chloeyinongyang/chloeyinongyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
